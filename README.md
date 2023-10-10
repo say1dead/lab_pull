@@ -14,4 +14,14 @@ def perimeter(r):\
 В функцию perimetr(r) мы передаем значение r - радиус круга -> получаем длину его окружности
 
 Пример использования:\
-1
+```
+def area(r):\
+    return math.pi * r * r
+
+def perimeter(r):\
+    return 2 * math.pi * r
+
+r = 2
+s = area(r) = pi * r * r
+p = perimetr(r) = 2 * pi * r
+```
