@@ -99,3 +99,9 @@ h = 5
 s = area(a, h) = (a * h) / 2 = (2 * 5) / 2 = 5
 p = perimetr(a, b, c) = a + b + c = 9
 ```
+|хэш|дата|содержание|автор|
+|---|---|---|---|
+|792767c|10.10.2023, 17:33|Add comment to circle.py|Sergey|
+|792767c|10.10.2023, 17:35|Add comment to rectangle.py|Sergey|
+|792767c|10.10.2023, 17:37|Add comment to square.py|Sergey|
+|792767c|10.10.2023, 17:41|Add comment to triangle.py|Sergey|
