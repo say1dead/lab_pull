@@ -102,6 +102,8 @@ p = perimetr(a, b, c) = a + b + c = 9
 |хэш|дата|содержание|автор|
 |---|---|---|---|
 |792767c|10.10.2023, 17:33|Add comment to circle.py|Sergey|
-|792767c|10.10.2023, 17:35|Add comment to rectangle.py|Sergey|
-|792767c|10.10.2023, 17:37|Add comment to square.py|Sergey|
-|792767c|10.10.2023, 17:41|Add comment to triangle.py|Sergey|
+|53c1b6b|10.10.2023, 17:35|Add comment to rectangle.py|Sergey|
+|6e8376f|10.10.2023, 17:37|Add comment to square.py|Sergey|
+|feeea6c|10.10.2023, 17:41|Add comment to triangle.py|Sergey|
+|afc6e86|27.09.2023, 09:37|Fix rectangle.py|Sergey|
+|a72344b|27.09.2023, 09:34|Add rectangle.py|Sergey|
